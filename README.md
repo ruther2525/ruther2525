@@ -9,11 +9,14 @@
 - [災害用伝言板(災害時には使用しないでください)](https://anpi.ruther.work/)
 - [創営会プログラミング部 (GitHub Organization)](https://github.com/soueikai-programming/)
 
-![ruther2525's GitHubStats](https://github-readme-stats.vercel.app/api?username=ruther2525&show_icons=true&theme=onedark)
+![ruther2525's GitHubStats](https://github-readme-stats.vercel.app/api?username=ruther2525&show_icons=true&theme=dracula)
 
-![ruther2525's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruther2525&layout=compact&theme=dark)
+![ruther2525's GitHub Graf](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruther2525&theme=dracula)
+
+![ruther2525's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruther2525&layout=compact&theme=dracula)
 
 ![ruther2525's Discord Stats](https://discord.c99.nl/widget/theme-1/722072905604923393.png)
+
 ### Accounts
 
 |         |                                                  |
