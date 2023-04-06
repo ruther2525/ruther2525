@@ -5,9 +5,8 @@
 いろいろしてます
 
 ### いろいろ
-- [Distalkative - A TTS Discord Bot](https://distalkative.ml/)
-- [災害用伝言板(災害時には使用しないでください)](https://anpi.ruther.work/)
 - [創営会プログラミング部 (GitHub Organization)](https://github.com/soueikai-programming/)
+- [Distalkative - A TTS Discord Bot](https://distalkative.ml/)
 
 ![ruther2525's GitHubStats](https://github-readme-stats.vercel.app/api?username=ruther2525&show_icons=true&theme=dracula)
 
