@@ -5,7 +5,7 @@
 いろいろしてます
 
 ### いろいろ
-- [創営会プログラミング部 (GitHub Organization)](https://github.com/soueikai-programming/)
+- [CPBase (GitHub Organization)](https://github.com/soueikai-programming/)
 - [Distalkative - A TTS Discord Bot](https://distalkative.ml/)
 
 ![ruther2525's GitHubStats](https://github-readme-stats.vercel.app/api?username=ruther2525&show_icons=true&theme=dracula)
